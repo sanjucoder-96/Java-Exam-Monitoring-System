@@ -1,0 +1,79 @@
+/* File: styles.css - Adjusted for better terminal look and larger text */
+
+
+.root {
+    -fx-background-color: #1a1a1a;
+    -fx-padding: 15px;
+    -fx-border-color: #4a4a4a;
+    -fx-border-width: 1px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+}
+
+
+.text-area {
+    -fx-background-color: #000000;
+    -fx-text-fill: #00ff00;
+    -fx-font-family: "Consolas", "Monospaced";
+    -fx-font-size: 16px;
+    -fx-control-inner-background: #000000;
+    -fx-highlight-fill: #008000;
+    -fx-highlight-text-fill: white;
+    -fx-border-color: #333333;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 8px;
+}
+
+
+.text-area .content {
+    -fx-background-color: #000000;
+    -fx-padding: 0;
+}
+
+
+.scroll-pane {
+    -fx-hbar-policy: never;
+    -fx-vbar-policy: always;
+}
+
+.scroll-bar:vertical {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:vertical .track-background {
+    -fx-background-color: #222222;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #555555;
+    -fx-background-insets: 2px;
+    -fx-background-radius: 5px;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #777777;
+}
+
+.scroll-bar:vertical .increment-button,
+.scroll-bar:vertical .decrement-button {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+}
+
+.scroll-bar:vertical .increment-arrow,
+.scroll-bar:vertical .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 0;
+}
+
+
+.text-area:focused {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-border-color: #00ff00;
+    -fx-border-width: 1px;
+}
