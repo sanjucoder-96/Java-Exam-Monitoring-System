@@ -45,8 +45,6 @@ Here's a quick demo video of the system running! (Remember, I've sped up the `sl
 
 [![My Exam Monitoring System Demo Thumbnail](https://github.com/sanjucoder-96/Java-Exam-Monitoring-System/blob/65d839c11d0884684aecc871fd593b92eae1581e/images/Output.png)]
 
-*(Replace `PASTE_YOUR_RAW_IMAGE_LINK_HERE` with the raw URL of your app screenshot you uploaded to GitHub.)*
-*(Replace `PASTE_YOUR_LINKEDIN_POST_URL_HERE` with the **permalink of your LinkedIn post**.)*
 
 ## How to Get It Running on Your Machine
 
