@@ -41,7 +41,7 @@ This project was a fantastic playground for diving deep into some core computer 
 
 ## Want to See It in Action?
 
-Here's a quick demo video of the system running! (Remember, I've sped up the `sleep` times in the code for this demo to keep it snappy!)
+Here's a quick demo screenshot of the system running! 
 
 [![My Exam Monitoring System Demo Thumbnail](https://github.com/sanjucoder-96/Java-Exam-Monitoring-System/blob/65d839c11d0884684aecc871fd593b92eae1581e/images/Output.png)]
 
